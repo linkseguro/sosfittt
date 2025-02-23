@@ -1,0 +1,168 @@
+Uri: https://cdn.converteai.net/c678e70b-13db-47d3-b046-f3e247d16ff7/66108901ad457000081e579d/main.m3u8
+File Name: C:\Downloaded Web Sites\mkt.sportdefense.com.br\c678e70b-13db-47d3-b046-f3e247d16ff7\66108901ad457000081e579d\main.m3u8
+Content Type: application/x-mpegurl
+
+Uri: https://cdn.converteai.net/lib/js/smartplayer/v1/smartplayer.min.js
+File Name: C:\Downloaded Web Sites\mkt.sportdefense.com.br\lib\js\smartplayer\v1\smartplayer.min.js
+Content Type: text/javascript
+
+Uri: https://dev.visualwebsiteoptimizer.com/
+File Name: C:\Downloaded Web Sites\mkt.sportdefense.com.br\index.htm
+Content Type: application/javascript
+
+Uri: https://images.converteai.net/c678e70b-13db-47d3-b046-f3e247d16ff7/players/6610892f3d109300085d0946/thumbnail.jpg
+File Name: C:\Downloaded Web Sites\mkt.sportdefense.com.br\c678e70b-13db-47d3-b046-f3e247d16ff7\players\6610892f3d109300085d0946\thumbnail.jpg
+Content Type: image/jpeg
+
+Uri: https://mkt.sportdefense.com.br/metodo-bora-secar
+File Name: C:\Downloaded Web Sites\mkt.sportdefense.com.br\metodo-bora-secar.html
+Content Type: text/html
+
+Uri: https://pages.greatpages.com.br/mkt.sportdefense.com.br-metodo-bora-secar/1740087801/imagens/desktop/1310513_1_173953767267af3d08ea189.png
+File Name: C:\Downloaded Web Sites\mkt.sportdefense.com.br\mkt.sportdefense.com.br-metodo-bora-secar\1740087801\imagens\desktop\1310513_1_173953767267af3d08ea189.png
+Content Type: image/png
+
+Uri: https://pages.greatpages.com.br/mkt.sportdefense.com.br-metodo-bora-secar/1740087801/imagens/desktop/1310513_1_173953767267af3d08ea198.png
+File Name: C:\Downloaded Web Sites\mkt.sportdefense.com.br\mkt.sportdefense.com.br-metodo-bora-secar\1740087801\imagens\desktop\1310513_1_173953767267af3d08ea198.png
+Content Type: image/jpeg
+
+Uri: https://pages.greatpages.com.br/mkt.sportdefense.com.br-metodo-bora-secar/1740087801/imagens/desktop/1310513_1_173953767267af3d08ea19e.png
+File Name: C:\Downloaded Web Sites\mkt.sportdefense.com.br\mkt.sportdefense.com.br-metodo-bora-secar\1740087801\imagens\desktop\1310513_1_173953767267af3d08ea19e.png
+Content Type: image/png
+
+Uri: https://pages.greatpages.com.br/mkt.sportdefense.com.br-metodo-bora-secar/1740087801/imagens/desktop/1310513_1_173953767267af3d090400a410645702.png
+File Name: C:\Downloaded Web Sites\mkt.sportdefense.com.br\mkt.sportdefense.com.br-metodo-bora-secar\1740087801\imagens\desktop\1310513_1_173953767267af3d090400a410645702.png
+Content Type: image/png
+
+Uri: https://pages.greatpages.com.br/mkt.sportdefense.com.br-metodo-bora-secar/1740087801/imagens/desktop/1310513_1_173953767267af3d091eacb720150125.png
+File Name: C:\Downloaded Web Sites\mkt.sportdefense.com.br\mkt.sportdefense.com.br-metodo-bora-secar\1740087801\imagens\desktop\1310513_1_173953767267af3d091eacb720150125.png
+Content Type: image/png
+
+Uri: https://pages.greatpages.com.br/mkt.sportdefense.com.br-metodo-bora-secar/1740087801/imagens/desktop/1310513_1_173953767267af3d0936654018514449.png
+File Name: C:\Downloaded Web Sites\mkt.sportdefense.com.br\mkt.sportdefense.com.br-metodo-bora-secar\1740087801\imagens\desktop\1310513_1_173953767267af3d0936654018514449.png
+Content Type: image/png
+
+Uri: https://pages.greatpages.com.br/mkt.sportdefense.com.br-metodo-bora-secar/1740087801/imagens/desktop/1310513_1_173953767267af3d095f0ae826435458.png
+File Name: C:\Downloaded Web Sites\mkt.sportdefense.com.br\mkt.sportdefense.com.br-metodo-bora-secar\1740087801\imagens\desktop\1310513_1_173953767267af3d095f0ae826435458.png
+Content Type: image/png
+
+Uri: https://pages.greatpages.com.br/mkt.sportdefense.com.br-metodo-bora-secar/1740087801/imagens/desktop/1310513_1_173953767267af3d095f361930657388.png
+File Name: C:\Downloaded Web Sites\mkt.sportdefense.com.br\mkt.sportdefense.com.br-metodo-bora-secar\1740087801\imagens\desktop\1310513_1_173953767267af3d095f361930657388.png
+Content Type: image/png
+
+Uri: https://pages.greatpages.com.br/mkt.sportdefense.com.br-metodo-bora-secar/1740087801/imagens/desktop/1310513_1_173953767267af3d095f510174415332.png
+File Name: C:\Downloaded Web Sites\mkt.sportdefense.com.br\mkt.sportdefense.com.br-metodo-bora-secar\1740087801\imagens\desktop\1310513_1_173953767267af3d095f510174415332.png
+Content Type: image/png
+
+Uri: https://pages.greatpages.com.br/mkt.sportdefense.com.br-metodo-bora-secar/1740087801/imagens/desktop/1310513_1_173953767267af3d095f853533165922.png
+File Name: C:\Downloaded Web Sites\mkt.sportdefense.com.br\mkt.sportdefense.com.br-metodo-bora-secar\1740087801\imagens\desktop\1310513_1_173953767267af3d095f853533165922.png
+Content Type: image/png
+
+Uri: https://pages.greatpages.com.br/mkt.sportdefense.com.br-metodo-bora-secar/1740087801/imagens/desktop/1310513_1_173953767267af3d097af04625661025.png
+File Name: C:\Downloaded Web Sites\mkt.sportdefense.com.br\mkt.sportdefense.com.br-metodo-bora-secar\1740087801\imagens\desktop\1310513_1_173953767267af3d097af04625661025.png
+Content Type: image/png
+
+Uri: https://pages.greatpages.com.br/mkt.sportdefense.com.br-metodo-bora-secar/1740087801/imagens/desktop/1310513_1_173953860364787367.png
+File Name: C:\Downloaded Web Sites\mkt.sportdefense.com.br\mkt.sportdefense.com.br-metodo-bora-secar\1740087801\imagens\desktop\1310513_1_173953860364787367.png
+Content Type: image/png
+
+Uri: https://pages.greatpages.com.br/mkt.sportdefense.com.br-metodo-bora-secar/1740087801/imagens/desktop/1310513_1_28529.png
+File Name: C:\Downloaded Web Sites\mkt.sportdefense.com.br\mkt.sportdefense.com.br-metodo-bora-secar\1740087801\imagens\desktop\1310513_1_28529.png
+Content Type: image/png
+
+Uri: https://pages.greatpages.com.br/mkt.sportdefense.com.br-metodo-bora-secar/1740087801/imagens/desktop/1310513_1_82707.png
+File Name: C:\Downloaded Web Sites\mkt.sportdefense.com.br\mkt.sportdefense.com.br-metodo-bora-secar\1740087801\imagens\desktop\1310513_1_82707.png
+Content Type: image/png
+
+Uri: https://pages.greatpages.com.br/mkt.sportdefense.com.br-metodo-bora-secar/1740087801/imagens/desktop/1310513_1_86547.png
+File Name: C:\Downloaded Web Sites\mkt.sportdefense.com.br\mkt.sportdefense.com.br-metodo-bora-secar\1740087801\imagens\desktop\1310513_1_86547.png
+Content Type: image/png
+
+Uri: https://pages.greatpages.com.br/mkt.sportdefense.com.br-metodo-bora-secar/1740087801/imagens/desktop/1310513_1_91437.png
+File Name: C:\Downloaded Web Sites\mkt.sportdefense.com.br\mkt.sportdefense.com.br-metodo-bora-secar\1740087801\imagens\desktop\1310513_1_91437.png
+Content Type: image/png
+
+Uri: https://pages.greatpages.com.br/mkt.sportdefense.com.br-metodo-bora-secar/1740087801/imagens/desktop/21647-1e519410dcc0ac36135e497d4d85b7e5.png
+File Name: C:\Downloaded Web Sites\mkt.sportdefense.com.br\mkt.sportdefense.com.br-metodo-bora-secar\1740087801\imagens\desktop\21647-1e519410dcc0ac36135e497d4d85b7e5.png
+Content Type: image/png
+
+Uri: https://pages.greatpages.com.br/mkt.sportdefense.com.br-metodo-bora-secar/1740087801/imagens/mobile/1310513_1_173953767267af3d0936654018514449.png
+File Name: C:\Downloaded Web Sites\mkt.sportdefense.com.br\mkt.sportdefense.com.br-metodo-bora-secar\1740087801\imagens\mobile\1310513_1_173953767267af3d0936654018514449.png
+Content Type: image/png
+
+Uri: https://pages.greatpages.com.br/mkt.sportdefense.com.br-metodo-bora-secar/1740087801/imagens/mobile/1310513_1_173953767267af3d095f0ae826435458.png
+File Name: C:\Downloaded Web Sites\mkt.sportdefense.com.br\mkt.sportdefense.com.br-metodo-bora-secar\1740087801\imagens\mobile\1310513_1_173953767267af3d095f0ae826435458.png
+Content Type: image/png
+
+Uri: https://pages.greatpages.com.br/mkt.sportdefense.com.br-metodo-bora-secar/1740087801/imagens/mobile/1310513_1_173953767267af3d095f361930657388.png
+File Name: C:\Downloaded Web Sites\mkt.sportdefense.com.br\mkt.sportdefense.com.br-metodo-bora-secar\1740087801\imagens\mobile\1310513_1_173953767267af3d095f361930657388.png
+Content Type: image/png
+
+Uri: https://pages.greatpages.com.br/mkt.sportdefense.com.br-metodo-bora-secar/1740087801/imagens/mobile/1310513_1_173953767267af3d095f510174415332.png
+File Name: C:\Downloaded Web Sites\mkt.sportdefense.com.br\mkt.sportdefense.com.br-metodo-bora-secar\1740087801\imagens\mobile\1310513_1_173953767267af3d095f510174415332.png
+Content Type: image/png
+
+Uri: https://pages.greatpages.com.br/mkt.sportdefense.com.br-metodo-bora-secar/1740087801/imagens/mobile/1310513_1_173953767267af3d095f853533165922.png
+File Name: C:\Downloaded Web Sites\mkt.sportdefense.com.br\mkt.sportdefense.com.br-metodo-bora-secar\1740087801\imagens\mobile\1310513_1_173953767267af3d095f853533165922.png
+Content Type: image/png
+
+Uri: https://pages.greatpages.com.br/mkt.sportdefense.com.br-metodo-bora-secar/1740087801/imagens/mobile/1310513_1_173953767267af3d097af04625661025.png
+File Name: C:\Downloaded Web Sites\mkt.sportdefense.com.br\mkt.sportdefense.com.br-metodo-bora-secar\1740087801\imagens\mobile\1310513_1_173953767267af3d097af04625661025.png
+Content Type: image/png
+
+Uri: https://pages.greatpages.com.br/mkt.sportdefense.com.br-metodo-bora-secar/1740087801/imagens/mobile/1310513_1_1739538262985652661679969.jpg
+File Name: C:\Downloaded Web Sites\mkt.sportdefense.com.br\mkt.sportdefense.com.br-metodo-bora-secar\1740087801\imagens\mobile\1310513_1_1739538262985652661679969.jpg
+Content Type: image/jpeg
+
+Uri: https://pages.greatpages.com.br/mkt.sportdefense.com.br-metodo-bora-secar/1740087801/imagens/mobile/1310513_1_1739538262985652662524293.jpg
+File Name: C:\Downloaded Web Sites\mkt.sportdefense.com.br\mkt.sportdefense.com.br-metodo-bora-secar\1740087801\imagens\mobile\1310513_1_1739538262985652662524293.jpg
+Content Type: image/jpeg
+
+Uri: https://pages.greatpages.com.br/mkt.sportdefense.com.br-metodo-bora-secar/1740087801/imagens/mobile/1310513_1_1739538262985652662680463.jpg
+File Name: C:\Downloaded Web Sites\mkt.sportdefense.com.br\mkt.sportdefense.com.br-metodo-bora-secar\1740087801\imagens\mobile\1310513_1_1739538262985652662680463.jpg
+Content Type: image/jpeg
+
+Uri: https://pages.greatpages.com.br/mkt.sportdefense.com.br-metodo-bora-secar/1740087801/imagens/mobile/1310513_1_1739538262985652663852707.jpg
+File Name: C:\Downloaded Web Sites\mkt.sportdefense.com.br\mkt.sportdefense.com.br-metodo-bora-secar\1740087801\imagens\mobile\1310513_1_1739538262985652663852707.jpg
+Content Type: image/jpeg
+
+Uri: https://pages.greatpages.com.br/mkt.sportdefense.com.br-metodo-bora-secar/1740087801/imagens/mobile/1310513_1_1739538262985652664347668.jpg
+File Name: C:\Downloaded Web Sites\mkt.sportdefense.com.br\mkt.sportdefense.com.br-metodo-bora-secar\1740087801\imagens\mobile\1310513_1_1739538262985652664347668.jpg
+Content Type: image/jpeg
+
+Uri: https://pages.greatpages.com.br/mkt.sportdefense.com.br-metodo-bora-secar/1740087801/imagens/mobile/1310513_1_1739538262985652665552173.jpg
+File Name: C:\Downloaded Web Sites\mkt.sportdefense.com.br\mkt.sportdefense.com.br-metodo-bora-secar\1740087801\imagens\mobile\1310513_1_1739538262985652665552173.jpg
+Content Type: image/jpeg
+
+Uri: https://pages.greatpages.com.br/mkt.sportdefense.com.br-metodo-bora-secar/1740087801/imagens/mobile/1310513_1_1739538262985652669849469.png
+File Name: C:\Downloaded Web Sites\mkt.sportdefense.com.br\mkt.sportdefense.com.br-metodo-bora-secar\1740087801\imagens\mobile\1310513_1_1739538262985652669849469.png
+Content Type: image/jpeg
+
+Uri: https://pages.greatpages.com.br/mkt.sportdefense.com.br-metodo-bora-secar/1740087801/imagens/mobile/1310513_1_173953860364787367.png
+File Name: C:\Downloaded Web Sites\mkt.sportdefense.com.br\mkt.sportdefense.com.br-metodo-bora-secar\1740087801\imagens\mobile\1310513_1_173953860364787367.png
+Content Type: image/png
+
+Uri: https://pages.greatpages.com.br/mkt.sportdefense.com.br-metodo-bora-secar/1740087801/imagens/mobile/1310513_1_28529.png
+File Name: C:\Downloaded Web Sites\mkt.sportdefense.com.br\mkt.sportdefense.com.br-metodo-bora-secar\1740087801\imagens\mobile\1310513_1_28529.png
+Content Type: image/png
+
+Uri: https://pages.greatpages.com.br/mkt.sportdefense.com.br-metodo-bora-secar/1740087801/imagens/mobile/1310513_1_82707.png
+File Name: C:\Downloaded Web Sites\mkt.sportdefense.com.br\mkt.sportdefense.com.br-metodo-bora-secar\1740087801\imagens\mobile\1310513_1_82707.png
+Content Type: image/png
+
+Uri: https://pages.greatpages.com.br/mkt.sportdefense.com.br-metodo-bora-secar/1740087801/imagens/mobile/1310513_1_86547.png
+File Name: C:\Downloaded Web Sites\mkt.sportdefense.com.br\mkt.sportdefense.com.br-metodo-bora-secar\1740087801\imagens\mobile\1310513_1_86547.png
+Content Type: image/png
+
+Uri: https://pages.greatpages.com.br/mkt.sportdefense.com.br-metodo-bora-secar/1740087801/imagens/mobile/1310513_1_91437.png
+File Name: C:\Downloaded Web Sites\mkt.sportdefense.com.br\mkt.sportdefense.com.br-metodo-bora-secar\1740087801\imagens\mobile\1310513_1_91437.png
+Content Type: image/png
+
+Uri: https://scripts.converteai.net/c678e70b-13db-47d3-b046-f3e247d16ff7/players/6610892f3d109300085d0946/player.js
+File Name: C:\Downloaded Web Sites\mkt.sportdefense.com.br\c678e70b-13db-47d3-b046-f3e247d16ff7\players\6610892f3d109300085d0946\player.js
+Content Type: text/javascript
+
+Uri: https://www.facebook.com/tr?id=503541978719540&ev=PageView&noscript=1
+File Name: C:\Downloaded Web Sites\mkt.sportdefense.com.br\tr
+Content Type: text/plain
+
